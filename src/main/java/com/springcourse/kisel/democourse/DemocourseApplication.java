@@ -18,6 +18,7 @@ public class DemocourseApplication {
 	public static void main(String[] args)
 	{
 		SpringApplication.run(DemocourseApplication.class, args);
+
 	}
 
 	@Bean
